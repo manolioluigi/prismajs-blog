@@ -1,0 +1,25 @@
+{
+  "name": "prismajs-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manolioluigi/prismajs-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manolioluigi/prismajs-blog/issues"
+  },
+  "homepage": "https://github.com/manolioluigi/prismajs-blog#readme",
+  "dependencies": {
+    "@prisma/client": "^5.6.0",
+    "nodemon": "^3.0.1",
+    "prisma": "^5.6.0"
+  }
+}
